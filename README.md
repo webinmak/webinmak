@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 
 EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
