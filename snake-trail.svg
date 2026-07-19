@@ -1,0 +1,58 @@
+<svg xmlns="http://w3.org" viewBox="0 0 500 100" width="100%" height="100">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; } 
+    .snake-body { fill: #39d353; animation: moveSnake 5s infinite linear; }
+    .snake-tail { fill: #26a641; animation: moveSnake 5s infinite linear; }
+    .letter { font-family: 'Courier New', Courier, monospace; font-weight: 900; font-size: 26px; fill: #161b22; animation: lightUp 5s infinite linear; }
+    
+    @keyframes moveSnake {
+      0% { transform: translateX(-60px); }
+      100% { transform: translateX(520px); }
+    }
+    
+    @keyframes lightUp {
+      0% { fill: #161b22; filter: none; }
+      /* Turns bright green when snake passes, then settles into contribution green */
+      10% { fill: #39d353; filter: drop-shadow(0 0 4px #39d353); }
+      20%, 85% { fill: #26a641; filter: none; }
+      95%, 100% { fill: #161b22; }
+    }
+    
+    /* Perfect timing sync based on snake position */
+    .l-v { animation-delay: 0.80s; }
+    .l-e { animation-delay: 1.25s; }
+    .l-n { animation-delay: 1.70s; }
+    .l-a { animation-delay: 2.15s; }
+    .l-c { animation-delay: 2.60s; }
+    .l-i { animation-delay: 3.05s; }
+    .l-o { animation-delay: 3.50s; }
+  </style>
+
+  <!-- Background container matching GitHub dark mode -->
+  <rect class="bg" width="100%" height="100" />
+  
+  <!-- Grid dots for retro arcade theme -->
+  <g fill="#21262d">
+    <circle cx="50" cy="50" r="1.5"/><circle cx="100" cy="50" r="1.5"/><circle cx="150" cy="50" r="1.5"/>
+    <circle cx="200" cy="50" r="1.5"/><circle cx="250" cy="50" r="1.5"/><circle cx="300" cy="50" r="1.5"/>
+    <circle cx="350" cy="50" r="1.5"/><circle cx="400" cy="50" r="1.5"/><circle cx="450" cy="50" r="1.5"/>
+  </g>
+
+  <!-- Trail Letters -->
+  <text x="110" y="59" class="letter l-v">V</text>
+  <text x="155" y="59" class="letter l-e">E</text>
+  <text x="200" y="59" class="letter l-n">N</text>
+  <text x="245" y="59" class="letter l-a">A</text>
+  <text x="290" y="59" class="letter l-c">C</text>
+  <text x="335" y="59" class="letter l-i">I</text>
+  <text x="380" y="59" class="letter l-o">O</text>
+
+  <!-- Moving Snake (Tail + Head segments) -->
+  <g>
+    <rect x="5" y="42" width="14" height="16" rx="3" class="snake-tail" />
+    <rect x="22" y="42" width="16" height="16" rx="4" class="snake-body" />
+    <!-- Snake Eyes -->
+    <circle cx="33" cy="47" r="1.5" fill="#0d1117" class="snake-body" />
+    <circle cx="33" cy="53" r="1.5" fill="#0d1117" class="snake-body" />
+  </g>
+</svg>
