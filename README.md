@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![Venacio Snake Trail](./snake-trail.svg)
+
 EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
 
 
