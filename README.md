@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://githubusercontent.com" alt="Venacio Snake Trail" width="100%">
+
 
 
 EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
