@@ -5,7 +5,7 @@ EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics
 </p>
 
 <h1 align="center">Hi 👋, I'm The Developer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webinmak&label=Profile%20views&color=0e75b6&style=flat" alt="webinmak" /> </p>
+<p align="left"> <img src="tanicon.png" alt="webinmak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webinmak" alt="webinmak" /></a> </p>
 
