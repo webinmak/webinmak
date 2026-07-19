@@ -10,7 +10,7 @@ EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics
 
 <td valign="top">
 
-# 👋 Hi, I'm Tanatswa Makata
+# 👋 Hi, I'm The Developer
 
 ### Electrical & Electronics Engineer | Embedded Systems Developer
 
