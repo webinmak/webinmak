@@ -1,12 +1,8 @@
 # 💫 About Me:
-
+EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/webinmak/webinmak/main/venaciosnake.svg" alt="VENACIO Snake" width="100%">
 </p>
-
-EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanatswa-makata-a71253363/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgTrTrR3%2FSwytrrSUttValA%3D%3D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Kataboycodditt) 
 
