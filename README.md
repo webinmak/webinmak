@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/webinmak/webinmak/main/venaciosnake.svg" alt="VENACIO Snake" width="100%">
+</p>
 
 EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
 
