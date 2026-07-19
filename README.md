@@ -5,7 +5,7 @@ EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics
 </p>
 
 <h1 align="center">Hi 👋, I'm The Developer</h1>
-<p align="left"> <img src="tanicon.png" alt="webinmak" /> </p>
+<p align="left"> <img src="icon.jpg" alt="webinmak" /> </p>
 
 
 - 🤝 Open for Collabs [contact me](https://www.linkedin.com/in/tanatswa-makata-a71253363/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgTrTrR3%2FSwytrrSUttValA%3D%3D)
