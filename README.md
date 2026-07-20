@@ -1,3 +1,4 @@
+[![](https://komarev.com/ghpvc/?username=thte&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 EEE Projects | PCB Design | Embedded Systems | Power Systems | Power Electronics | Control Systems | VLSI | IoT | Robotics | AI | Machine Learning | Full-Stack Development
 <table>
